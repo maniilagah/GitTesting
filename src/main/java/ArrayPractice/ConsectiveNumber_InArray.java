@@ -7,7 +7,7 @@ public class ConsectiveNumber_InArray {
 	public static void main(String[] args) {
 		
 		
-		int[] array = {2,3,4,1,5,7,6};
+		int[] array = {2,3,4,1,5,7,6,8};
 		System.out.print(containConsectiveNumber(array) + " All values are consective");		
 	}
 
