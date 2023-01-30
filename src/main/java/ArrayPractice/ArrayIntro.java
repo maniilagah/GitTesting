@@ -10,7 +10,7 @@ public class ArrayIntro {
 		//Write a Java program to sort a numeric array and a string array.
 		
 		
-		int unsortedArray [] = {13,5,23,1,0,34,67,65,43,7,6,54,245,675,753,6756,30,43,3};
+		int unsortedArray [] = {12,12,13,5,23,1,0,34,67,65,43,7,6,54,245,675,753,6756,30,43,3};
 		
 		int length = unsortedArray.length-1;
 		int pos = length-1;
